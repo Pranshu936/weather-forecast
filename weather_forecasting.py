@@ -1,4 +1,4 @@
-#padh le salle
+
 import requests
 import json
 import os
